@@ -1,6 +1,6 @@
 body
 {
-    color:chocolate;
+    color:rgb(30, 141, 210);
     text-align: center;
     font-family: "Courier";
     font-size:  16px;
@@ -9,16 +9,16 @@ body
 
 }
 
-#container 
+.contenido
 {
-    width: 70% ;
+    width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px #DDD;
-    margin: 0 auto;
+    border: 5px solid #333;
+    margin: 25 auto;
 }
 
-#container h1
+#contenido h1
 {
     font-size: 20px; 
 }
