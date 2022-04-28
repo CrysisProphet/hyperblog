@@ -1,3 +1,6 @@
 esta es la historia de prophet
 
+<<<<<<< HEAD
+=======
 tengo 24 años
+>>>>>>> master
