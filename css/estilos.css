@@ -8,18 +8,7 @@ body
     padding: 0;
 
 }
- #cabecera #logo
- {
-    width: 50px;
-    vertical-align: middle;
- }
 
- #cabecera #tagline
- {
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
- }
 
 .contenido
 {
